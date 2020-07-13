@@ -2,7 +2,7 @@
 
 This repository provides a list of works on Visualization Recommendation. The following table lists papers included in this repository. All pdf files can be found in `./Papers`. Some survey papers collected are also added to the folder `./Papers/Survey`.
 
-I am working on analysing all of the systems. An excel is available in `./Analysis` for more details, such as models, evaluations, datasets etc. It is worth noting that this work is still in progress, this repository will be updated continuously.
+I am working on analysing all of the systems. An [excel](https://github.com/ShenLeixian/Visualization-Recommendation-Systems-Analysis/blob/master/Analysis/VisRec%20Evaluation.xlsx) is available in `./Analysis` for more details, such as models, evaluations, datasets, etc. It is worth noting that this work is still in progress, this repository will be updated continuously.
 
 If you want to contribute to this repository or have any other questions, supplements or suggestions. please feel free to contact me via shenleixian@gmail.com. Thanks.
 

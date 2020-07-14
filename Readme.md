@@ -4,13 +4,13 @@ This repository provides a list of works on Visualization Recommendation. The fo
 
 I am working on analysing all of the systems. An [excel](https://github.com/ShenLeixian/Visualization-Recommendation-Systems-Analysis/blob/master/Analysis/VisRec%20Evaluation.xlsx) is available in `./Analysis` for more details, such as models, evaluations, datasets, etc. It is worth noting that this work is still in progress, this repository will be updated continuously.
 
-If you want to contribute to this repository or have any other questions, supplements or suggestions. please feel free to contact me via shenleixian@gmail.com. Thanks.
+If you want to contribute to this repository or have any other questions, supplements or suggestions. please feel free to contact me via shenleixian@gmail.com. Issues are also welcome! Thanks.
 
 
 | System                         | Year | Publication     | Project Url                                                                  |
 |--------------------------------|------|-----------------|------------------------------------------------------------------------------|
 | Dziban                         | 2020 | CHI             | https://github\.com/uwdata/dziban                                            |
-| Ask Data                       | 2019 | VIS\(VAST\)     | https://help\.tableau\.com/current/server/en\-us/ask\_data\.htm              |
+| Ask Data                       | 2019 | VIS\(VAST\)     | https://www\.tableau\.com/products/new\-features/ask\-data                   |
 | VizML                          | 2019 | CHI             | https://vizml\.media\.mit\.edu/                                              |
 | VizNet                         | 2019 | CHI             | https://viznet\.media\.mit\.edu/                                             |
 | Data2Vis                       | 2018 | VIS\(VDS\)      | https://github\.com/victordibia/data2vis                                     |
